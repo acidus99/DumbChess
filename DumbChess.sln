@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DumbChess", "DumbChess\Dumb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DumbChess.ConsoleApp", "DumbClass.ConsoleApp\DumbChess.ConsoleApp.csproj", "{0848C9A0-AB5C-4EE4-AD9A-C575EB4B2961}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DumbChess.Cgi", "DumbChess.Cgi\DumbChess.Cgi.csproj", "{10D6A3F2-FDBB-4CA2-BB99-353474DDA187}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gemini.Cgi", "..\Gemini.Cgi\Gemini.Cgi.csproj", "{9AED1870-1C57-44D6-BFB7-6439ACBA9C87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{0848C9A0-AB5C-4EE4-AD9A-C575EB4B2961}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0848C9A0-AB5C-4EE4-AD9A-C575EB4B2961}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0848C9A0-AB5C-4EE4-AD9A-C575EB4B2961}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10D6A3F2-FDBB-4CA2-BB99-353474DDA187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D6A3F2-FDBB-4CA2-BB99-353474DDA187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D6A3F2-FDBB-4CA2-BB99-353474DDA187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D6A3F2-FDBB-4CA2-BB99-353474DDA187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AED1870-1C57-44D6-BFB7-6439ACBA9C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AED1870-1C57-44D6-BFB7-6439ACBA9C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AED1870-1C57-44D6-BFB7-6439ACBA9C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AED1870-1C57-44D6-BFB7-6439ACBA9C87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
