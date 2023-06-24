@@ -15,6 +15,15 @@ class Program
 
             var renderer = new GeminiRenderer(cgi.Writer);
             renderer.Render(board);
+
+            var big = new BigRenderer(cgi.Writer);
+            big.Render(board);
+
+            var chess = new ChessRenderer(cgi.Writer);
+            chess.Render(board,false);
+
+            chess.Render(board, true);
+
         }
     }
 }
