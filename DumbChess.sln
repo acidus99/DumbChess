@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DumbChess", "DumbChess\DumbChess.csproj", "{3AEA9CAA-B1C8-4AA9-A75D-5A6AA9129CCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DumbChess.ConsoleApp", "DumbClass.ConsoleApp\DumbChess.ConsoleApp.csproj", "{0848C9A0-AB5C-4EE4-AD9A-C575EB4B2961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AEA9CAA-B1C8-4AA9-A75D-5A6AA9129CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AEA9CAA-B1C8-4AA9-A75D-5A6AA9129CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AEA9CAA-B1C8-4AA9-A75D-5A6AA9129CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AEA9CAA-B1C8-4AA9-A75D-5A6AA9129CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0848C9A0-AB5C-4EE4-AD9A-C575EB4B2961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0848C9A0-AB5C-4EE4-AD9A-C575EB4B2961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0848C9A0-AB5C-4EE4-AD9A-C575EB4B2961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0848C9A0-AB5C-4EE4-AD9A-C575EB4B2961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B748AB34-AE44-4437-8294-8C91B7C9E1C9}
+	EndGlobalSection
+EndGlobal
